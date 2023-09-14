@@ -1,0 +1,7 @@
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg" class="w-96 mx-auto">
+    <rect x="0" y="0" width="200" height="50" fill="none" />
+    <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" font-size="30" font-weight="bold" fill="rgb(14 116 144)" font-family="Arial, sans-serif" letter-spacing="-0.05em">News</text>
+    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="30" font-weight="bold" fill="#212529" font-family="Arial, sans-serif" letter-spacing="-0.05em">Update</text>
+    <path d="M 30 10 L 50 10 L 50 40 L 30 40 Z" fill="#212529" />
+    <path d="M 150 10 L 170 10 L 170 40 L 150 40 Z" fill="rgb(14 116 144)" />
+</svg>
